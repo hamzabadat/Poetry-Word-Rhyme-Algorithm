@@ -6,7 +6,7 @@
 ![Algorithm](https://img.shields.io/badge/Algorithm-Suffix%20Indexing-green)
 ![Dataset](https://img.shields.io/badge/Dataset-224K%20words-blue)
 
-## 🎯 [Live Demo](https://yourusername.github.io/rhyming-engine/)
+## 🎯 [Live Demo](https://hamzabadat.github.io/Poetry-Word-Rhyme-Algorithm/)
 
 *(Deploy to GitHub Pages to activate this link)*
 
