@@ -162,9 +162,6 @@ User enters word → Get suffix → Hash lookup → Return matches
 git clone https://github.com/yourusername/rhyming-engine.git
 cd rhyming-engine
 
-# Open in browser
-open index.html
-# OR just double-click index.html
 ```
 
 No build process needed - pure HTML/CSS/JavaScript!
