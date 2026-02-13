@@ -237,20 +237,6 @@ findRhymes('hat')
 
 ---
 
-## 💼 Business Analyst Talking Points
-
-**When discussing this project:**
-
-> "I built this to understand how search optimization works. The challenge was making rhyme searches fast enough for real-time use. Instead of comparing every word in a 224,000-word dictionary, I implemented a reverse suffix indexing strategy that groups words by their endings. This reduced search complexity from O(n) to O(1) - essentially making it 200,000 times faster. The trade-off was using more memory to store the index, but that's acceptable since memory is cheap and user experience depends on speed. This project taught me to think about algorithm efficiency and the importance of choosing the right data structure for the problem."
-
-**Key phrases to use:**
-- "Algorithm optimization"
-- "Data structure selection"
-- "Performance tuning"
-- "Search complexity reduction"
-- "Preprocessing vs. query time trade-offs"
-
----
 
 ## 🔬 Technical Deep Dive
 
